@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Habit Rise</string>
+    <!-- Tip 1 -->
+    <string name="tip_1_title">Wake Up Early</string>
+    <string name="tip_1_description">Start your day with peace and clarity.</string>
+
+    <!-- Tip 2 -->
+    <string name="tip_2_title">Drink Water First Thing</string>
+    <string name="tip_2_description">Hydrate your body before anything else.</string>
+
+    <!-- Tip 3 -->
+    <string name="tip_3_title">Write Down Your Priorities</string>
+    <string name="tip_3_description">Organize your tasks by listing your top priorities for the day.</string>
+
+    <!-- Tip 4 -->
+    <string name="tip_4_title">Stretch for Flexibility</string>
+    <string name="tip_4_description">Get your body moving with morning stretches.</string>
+
+    <!-- Tip 5 -->
+    <string name="tip_5_title">Make Your Bed</string>
+    <string name="tip_5_description">Accomplish your first task of the day by tidying up.</string>
+
+    <!-- Tip 6 -->
+    <string name="tip_6_title">Eat a Nutritious Breakfast</string>
+    <string name="tip_6_description">Fuel your body with a balanced meal.</string>
+
+    <!-- Tip 7 -->
+    <string name="tip_7_title">Plan Your Day</string>
+    <string name="tip_7_description">Write down 3 goals you want to achieve.</string>
+
+    <!-- Tip 8 -->
+    <string name="tip_8_title">Practice Gratitude</string>
+    <string name="tip_8_description">List 3 things you’re grateful for today.</string>
+
+    <!-- Tip 9 -->
+    <string name="tip_9_title">Go for a Short Walk</string>
+    <string name="tip_9_description">Clear your mind with a quick walk outside.</string>
+
+    <!-- Tip 10 -->
+    <string name="tip_10_title">Limit Social Media</string>
+    <string name="tip_10_description">Spend no more than 30 minutes on social platforms.</string>
+
+    <!-- Tip 11 -->
+    <string name="tip_11_title">Drink 8 Glasses of Water</string>
+    <string name="tip_11_description">Stay hydrated throughout the day.</string>
+
+    <!-- Tip 12 -->
+    <string name="tip_12_title">Read for 20 Minutes</string>
+    <string name="tip_12_description">Grow your mind with a book or article.</string>
+
+    <!-- Tip 13 -->
+    <string name="tip_13_title">Spend Time in Nature</string>
+    <string name="tip_13_description">See The Beautiful of nature</string>
+
+    <!-- Tip 14 -->
+    <string name="tip_14_title">Declutter Your Space</string>
+    <string name="tip_14_description">Organize one area of your home today.</string>
+
+    <!-- Tip 15 -->
+    <string name="tip_15_title">Take Deep Breaths</string>
+    <string name="tip_15_description">Practice deep breathing to reduce stress.</string>
+
+    <!-- Tip 16 -->
+    <string name="tip_16_title">Limit Caffeine</string>
+    <string name="tip_16_description">Try to have no more than two cups of coffee.</string>
+
+    <!-- Tip 17 -->
+    <string name="tip_17_title">Call a Friend or Family Member</string>
+    <string name="tip_17_description">Nurture your relationships by checking in with loved ones.</string>
+
+    <!-- Tip 18 -->
+    <string name="tip_18_title">Avoid Processed Foods</string>
+    <string name="tip_18_description">Focus on whole foods for the day.</string>
+
+    <!-- Tip 19 -->
+    <string name="tip_19_title">Take a Break from Work</string>
+    <string name="tip_19_description">Step away from work for 10 minutes to recharge.</string>
+
+    <!-- Tip 20 -->
+    <string name="tip_20_title">Journal Your Thoughts</string>
+    <string name="tip_20_description">Write down your thoughts or feelings today.</string>
+
+    <!-- Tip 21 -->
+    <string name="tip_21_title">Exercise for 30 Minutes</string>
+    <string name="tip_21_description">Move your body with your favorite workout.</string>
+
+    <!-- Tip 22 -->
+    <string name="tip_22_title">Limit Screen Time Before Bed</string>
+    <string name="tip_22_description">Turn off devices at least 30 minutes before sleep.</string>
+
+    <!-- Tip 23 -->
+    <string name="tip_23_title">Try a New Hobby</string>
+    <string name="tip_23_description">Engage in a new activity or hobby to stimulate your creativity.</string>
+
+    <!-- Tip 24 -->
+    <string name="tip_24_title">Practice a Hobby</string>
+    <string name="tip_24_description">Spend time doing something you enjoy today.</string>
+
+    <!-- Tip 25 -->
+    <string name="tip_25_title">Avoid Negative Talk</string>
+    <string name="tip_25_description">Speak kindly to yourself and others today.</string>
+
+    <!-- Tip 26 -->
+    <string name="tip_26_title">End the Day with Reflection</string>
+    <string name="tip_26_description">Think about what you accomplished and what you’re proud of.</string>
+
+    <!-- Tip 27 -->
+    <string name="tip_27_title">Prepare Tomorrow’s Outfit</string>
+    <string name="tip_27_description">Get your clothes ready for the next day.</string>
+
+    <!-- Tip 28 -->
+    <string name="tip_28_title">Try a New Recipe</string>
+    <string name="tip_28_description">Cook a new healthy meal today.</string>
+
+    <!-- Tip 29 -->
+    <string name="tip_29_title">Spend Time Offline</string>
+    <string name="tip_29_description">Enjoy time without technology for an hour.</string>
+
+    <!-- Tip 30 -->
+    <string name="tip_30_title">Sleep 8 Hours</string>
+    <string name="tip_30_description">Prioritize getting enough rest tonight.</string>
+
+</resources>
