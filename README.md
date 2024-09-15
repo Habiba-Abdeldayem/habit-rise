@@ -12,9 +12,9 @@ The goal is to encourage users to take small, manageable steps towards a healthi
 - **LazyColumn for List Rendering**: Tips are displayed using a `LazyColumn` to ensure smooth scrolling and performance.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/80319b74-aec9-4a29-a809-c1aa7321c891)
-![image](https://github.com/user-attachments/assets/5ff4be25-d08c-4c43-a585-791fef7c730e)
-![image](https://github.com/user-attachments/assets/95f4505d-8a10-477c-948b-b4b8aa4320fc)
+![1](https://github.com/user-attachments/assets/23199b41-1fa5-462c-be08-eb5fc1939b26)
+![2](https://github.com/user-attachments/assets/9cef0f18-3e3b-41f1-bc0f-6323170ac35e)
+
 
 
 ## Tech Stack
